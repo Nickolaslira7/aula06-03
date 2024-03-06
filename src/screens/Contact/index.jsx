@@ -5,7 +5,7 @@ import styles from "./styles";
 export default function Contact() {
   return (
     <View style={styles.container}>
-      <Text>Home</Text>
+      <Text>Contact</Text>
     </View>
   );
 }
